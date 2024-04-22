@@ -2,7 +2,7 @@
 import { useSelector } from "react-redux";
 import { formatCurrency } from "../../utils/helpers";
 import Deleteitem from "./Deleteitem";
-import UpdateItemQuantity from "./u/UpdateItemQuantity";
+import UpdateItemQuantity from "./UpdateItemQuantity";
 import { getCurrentQuantityById } from "./CartSlice";
 
 function CartItem({ item }) {
