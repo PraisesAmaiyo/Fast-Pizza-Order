@@ -7,7 +7,6 @@ import { clearCart, getCart, getTotalCartPrice } from "../cart/CartSlice";
 import store from "../../store";
 import { formatCurrency } from "../../utils/helpers";
 import { useState } from "react";
-import { unstable_renderSubtreeIntoContainer } from "react-dom";
 import { fetchAddress } from "../user/userSlice";
 
 // https://uibakery.io/regex-library/phone-number
