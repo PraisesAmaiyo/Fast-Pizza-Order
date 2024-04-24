@@ -33,3 +33,23 @@ To get started with the Pizza Order Web App, follow these steps:
 ## Contributing
 
 Contributions to the Pizza Order Web App are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request.
+
+  ![image](https://github.com/PraisesAmaiyo/Fast-Pizza-Order/assets/130058029/399066dc-caf5-48b8-94f7-e708ca28884b)
+
+  ![image](https://github.com/PraisesAmaiyo/Fast-Pizza-Order/assets/130058029/3e850b65-54ae-4d68-ad4a-731436c2739b)
+
+![image](https://github.com/PraisesAmaiyo/Fast-Pizza-Order/assets/130058029/1ff739b6-db54-4e92-9058-5b42b555139f)
+
+![image](https://github.com/PraisesAmaiyo/Fast-Pizza-Order/assets/130058029/96cec061-5777-4611-a3fc-0664f6ab6b21)
+
+![image](https://github.com/PraisesAmaiyo/Fast-Pizza-Order/assets/130058029/e45f9b95-5dea-42ef-b975-fa7e3f7c4f81)
+
+![image](https://github.com/PraisesAmaiyo/Fast-Pizza-Order/assets/130058029/4549779e-11f1-409f-874b-0aabd3dbff13)
+
+![image](https://github.com/PraisesAmaiyo/Fast-Pizza-Order/assets/130058029/c16ffffb-4f80-4b13-aabb-c0e2ee61b998)
+
+
+
+
+
+
