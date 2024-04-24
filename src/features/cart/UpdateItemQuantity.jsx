@@ -1,6 +1,6 @@
 import { useDispatch } from "react-redux";
 import Button from "../../ui/Button";
-import { decreaseItemQuantity, increaseItemQuantity } from "./CartSlice";
+import { decreaseItemQuantity, increaseItemQuantity } from "./cartSlice";
 
 // eslint-disable-next-line react/prop-types
 function UpdateItemQuantity({ pizzaId, currentQuantity }) {
