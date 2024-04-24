@@ -1,6 +1,6 @@
 import { useDispatch } from "react-redux";
 import Button from "../../ui/Button";
-import { deleteItem } from "./CartSlice";
+import { deleteItem } from "./cartSlice";
 
 // eslint-disable-next-line react/prop-types
 function Deleteitem({ pizzaId }) {
